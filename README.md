@@ -39,11 +39,5 @@ El proyecto está organizado de la siguiente manera:
 - `modelo_arbol_decision.pkl`: Archivo del modelo de Árbol de Decisión entrenado.
 - `scatter_predicciones_arbol.png`: Gráfico de dispersión comparando predicciones y valores reales.
 
-## Instalación
 
-Para ejecutar este proyecto localmente, sigue estos pasos:
-
-1. Clona el repositorio a tu máquina local:
-   ```sh
-   git clone https://github.com/tu_usuario/tu_repositorio.git
-   cd tu_repositorio
+  
